@@ -1,0 +1,22 @@
+{
+    "name": "dop",
+    "displayName": "dop",
+    "description": "Inspired in Material Theme for Sublime",
+    "version": "1.0.0",
+    "publisher": "josenzo",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "dop",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dop.json"
+            }
+        ]
+    }
+}
