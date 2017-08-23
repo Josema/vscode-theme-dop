@@ -1,8 +1,8 @@
 {
     "name": "dop",
     "displayName": "dop",
-    "description": "Inspired in Material Theme for Sublime and Monokai",
-    "version": "1.0.1",
+    "description": "Inspired by Material Theme for Sublime and Monokai",
+    "version": "1.0.3",
     "publisher": "josenzo",
     "engines": {
         "vscode": "^1.15.0"
