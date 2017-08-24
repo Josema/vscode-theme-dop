@@ -269,7 +269,9 @@
         "activityBarBadge.background": "#ffa000",
         "activityBarBadge.foreground": "#333333",
         "panelTitle.inactiveForeground": "#49616c",
-        // "panel.background": "#263238",
+        "panel.background": "#263238",
+        "panelTitle.activeForeground": "#ffffff",
+
 
         "debugToolBar.background": "#182328"
     }
